@@ -33,15 +33,34 @@ Here are some ideas to get you started:
 |**3D建模**|![3DMax Badge](https://img.shields.io/badge/-3DMax-007ACC?style=flat&logo=autodesk&logoColor=white) ![3DMax Badge](https://img.shields.io/badge/-123D-007ACC?style=flat&logo=123d&logoColor=white) ![SolidWorks Badge](https://img.shields.io/badge/-SolidWorks-007ACC?style=flat&logo=solidworks&logoColor=white)|
 |**图像处理**|![PhotoShop Badge](https://img.shields.io/badge/-PhotoShop-007ACC?style=flat&logo=adobe&logoColor=white)|
 |**动画制作**|![Flash Badge](https://img.shields.io/badge/-Flash-FF1111?style=flat&logo=adobe&logoColor=white)|
-|**视频剪辑**|![Premiere Badge](https://img.shields.io/badge/-Premiere-007ACC?style=flat&logo=adobe&logoColor=white) ![剪映 Badge](https://img.shields.io/badge/-%E5%89%AA%E6%98%A0-orange?style=flat)
-|
+|**视频剪辑**|![Premiere Badge](https://img.shields.io/badge/-Premiere-007ACC?style=flat&logo=adobe&logoColor=white) ![剪映 Badge](https://img.shields.io/badge/-%E5%89%AA%E6%98%A0-orange?style=flat)|
 <!-- CI/CD代表持续集成（Continuous Integration）和持续交付/持续部署（Continuous Delivery/Continuous Deployment），是一种软件开发流程和实践，旨在通过自动化来提高软件开发和交付的效率、质量和可靠性。它涉及将代码集成到共享代码库中，进行自动化测试，以及将应用程序自动地交付给生产环境或用户。 -->
 
-<br><br><br>
+
+<br><br>
 
 |||
 |---|---|
-|**领域知识**<br>**Domain Knownledge**|![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white) ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) ![Embedded Development Badge](https://img.shields.io/badge/-Embedded%20Development-2088FF?style=flat&logoColor=white)|
+|**领域知识**<br>**Domain Knownledge**|![Machine Learning Badge](https://img.shields.io/badge/机器学习-Machine%20Learning-01D277?style=flat&logoColor=white) ![Computer Science Development Badge](https://img.shields.io/badge/计算机科学-Computer%20Science-FAB040?style=flat&logoColor=white) ![Electrical Engineering Development Badge](https://img.shields.io/badge/电子工程-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/软件开发-Software%20Development-FF6600?style=flat&logoColor=white) ![Embedded Development Badge](https://img.shields.io/badge/嵌入式开发-Embedded%20Development-2088FF?style=flat&logoColor=white)|
+
+
+### 📫目前在做的项目
+可能没什么太多的技术含量，但就是做着玩玩
+
+以下排序按照优先级
+
+1. 做个轮腿平衡车demo玩玩
+    1. 单杆固定的倒立摆轮腿
+    2. 单杆，但是平台水平的轮腿
+    3. 五连杆轮腿
+1. 做个飞镖玩玩
+    1. 做个小demo
+3. 整合各种玩意搞个万国造的鹅瞄
+    1. 全套自己写
+    2. 额外增加4个摄像头提升周边姿态感知，同时知道旁边机器人分布的状态。
+    3. 增加弹丸识别功能
+4. 做报到材料整理系统的硬件，接入到新生报到辅助系统中。 
+
 
 ### 🔭目前情况
 最近在做的事情有点多。
