@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 |**集成开发环境**<br>**IDE**|![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Keil5 Badge](https://img.shields.io/badge/-Keil5-007ACC?style=flat&logo=keil&logoColor=white) ![AndroidStudio Badge](https://img.shields.io/badge/-Android%20Studio-007ACC?style=flat&logo=android-studio&logoColor=white)|
 |**数据库**<br>**Databases**|![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)|
 |**机器学习框架**<br>**Machine Learning Frameworks**|![SKLearn Badge](https://img.shields.io/badge/-SKLearn-FF6600?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch Badge](https://img.shields.io/badge/-PyTorch-007ACC?style=flat&logo=pytorch&logoColor=white) ![PyTorch Badge](https://img.shields.io/badge/-TensorFlow-007ACC?style=flat&logo=tensorflow&logoColor=white)|
-|**CI/CD**|![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white) ![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white) |
+|**CI/CD**|![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white) ![Git Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white) ![Gitee Actions Badge](https://img.shields.io/badge/-Gitee-2088FF?style=flat&logo=Gitee&logoColor=white)|
 |**工具和平台**<br>**Tools & Platform**|![OpenCV Badge](https://img.shields.io/badge/-OpenCV-007ACC?style=flat&logo=opencv&logoColor=white) ![ROS Badge](https://img.shields.io/badge/-ROS-007ACC?style=flat&logo=ros&logoColor=white)|
 |**3D建模**|![3DMax Badge](https://img.shields.io/badge/-3DMax-007ACC?style=flat&logo=autodesk&logoColor=white) ![3DMax Badge](https://img.shields.io/badge/-123D-007ACC?style=flat&logo=123d&logoColor=white) ![SolidWorks Badge](https://img.shields.io/badge/-SolidWorks-007ACC?style=flat&logo=solidworks&logoColor=white)|
-|**图像处理**|![PhotoShop Badge](https://img.shields.io/badge/-PhotoShop-007ACC?style=flat&logo=adobe&logoColor=white)|
+|**图像处理**|![PhotoShop Badge](https://img.shields.io/badge/-PhotoShop-007ACC?style=flat&logo=adobe-photoshop&logoColor=white)|
 |**动画制作**|![Flash Badge](https://img.shields.io/badge/-Flash-FF1111?style=flat&logo=adobe&logoColor=white)|
-|**视频剪辑**|![Premiere Badge](https://img.shields.io/badge/-Premiere-007ACC?style=flat&logo=adobe&logoColor=white) ![剪映 Badge](https://img.shields.io/badge/-%E5%89%AA%E6%98%A0-orange?style=flat)|
+|**视频剪辑**|![Premiere Badge](https://img.shields.io/badge/-Premiere-007ACC?style=flat&logo=adobe-premiere-pro&logoColor=white) ![剪映 Badge](https://img.shields.io/badge/-%E5%89%AA%E6%98%A0-orange?style=flat)|
 <!-- CI/CD代表持续集成（Continuous Integration）和持续交付/持续部署（Continuous Delivery/Continuous Deployment），是一种软件开发流程和实践，旨在通过自动化来提高软件开发和交付的效率、质量和可靠性。它涉及将代码集成到共享代码库中，进行自动化测试，以及将应用程序自动地交付给生产环境或用户。 -->
 
 
