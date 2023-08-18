@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 
 <!-- ### 👋欢迎来到小企鹅的GitHub空间 -->
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=black&width=435&lines=👋欢迎来到小企鹅的GitHub&center=true&size=27" alt="Typing SVG" />
-</div>
+</div> -->
 
 
+<a href="https://git.io/typing-svg">
+    <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%B0%8F%E4%BC%81%E9%B9%85%E7%9A%84GitHub" alt="Typing SVG" />
+    </div>
+</a>
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
