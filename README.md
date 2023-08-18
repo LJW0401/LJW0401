@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!-- ### 👋欢迎来到小企鹅的GitHub空间 -->
 
 <div align="center">
-  <a href="https://blog.sunguoqi.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=black&width=435&lines=👋欢迎来到小企鹅的GitHub&center=true&size=27" alt="Typing SVG" />
-  </a>
 </div>
+
+
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
