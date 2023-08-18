@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJW0401&layout=compact&langs_count=6&theme=merko" style="height: 100px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJW0401&layout=compact&langs_count=6&theme=merko" style="height: 150px;" />
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 2;">
       <img src="https://github-readme-stats.vercel.app/api?username=LJW0401&show_icons=true&theme=merko" style="height: 150px;" /> 
     </div>
 </div>
