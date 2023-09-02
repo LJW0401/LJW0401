@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJW0401&layout=compact&langs_count=6&theme=merko" style="height: 200px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJW0401&layout=compact&langs_count=6&theme=merko" />
     </div>
     <div style="flex: 2;">
-      <img src="https://github-readme-stats.vercel.app/api?username=LJW0401&show_icons=true&theme=merko" style="height: 200px;" /> 
+      <img src="https://github-readme-stats.vercel.app/api?username=LJW0401&show_icons=true&theme=merko" /> 
     </div>
 </div>
 
@@ -75,35 +75,53 @@ Here are some ideas to get you started:
 
 - **领域知识** **Domain Knownledge**
 
-    ![Machine Learning Badge](https://img.shields.io/badge/机器学习-Machine%20Learning-01D277?style=flat&logoColor=white) ![Computer Science Development Badge](https://img.shields.io/badge/计算机科学-Computer%20Science-FAB040?style=flat&logoColor=white) ![Electrical Engineering Development Badge](https://img.shields.io/badge/电子工程-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/软件开发-Software%20Development-FF6600?style=flat&logoColor=white) ![Embedded Development Badge](https://img.shields.io/badge/嵌入式开发-Embedded%20Development-2088FF?style=flat&logoColor=white)
+    ![Machine Learning Badge](https://img.shields.io/badge/机器学习-Machine%20Learning-01D277?style=flat&logoColor=white) 
+    ![Computer Science Development Badge](https://img.shields.io/badge/计算机科学-Computer%20Science-FAB040?style=flat&logoColor=white) 
+    ![Electrical Engineering Development Badge](https://img.shields.io/badge/电子工程-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white) 
+    ![Software Development Badge](https://img.shields.io/badge/软件开发-Software%20Development-FF6600?style=flat&logoColor=white) 
+    ![Embedded Development Badge](https://img.shields.io/badge/嵌入式开发-Embedded%20Development-2088FF?style=flat&logoColor=white)
+    ![Computer Vision](https://img.shields.io/badge/计算机视觉-Computer%20Vision-253388?style=flat&logoColor=white)
 
 
 ### 📫目前在做的项目
-可能没什么太多的技术含量，但就是做着玩玩
+没什么技术含量，做着玩玩。
 
 以下排序按照优先级
 
-1. 做个轮腿平衡车demo玩玩
-    
-    [轮腿车车](https://github.com/LJW0401/Wheel_Leg_Balance_Vehicle)
-    1. 单杆固定的倒立摆轮腿
-    2. 单杆，但是平台水平的轮腿
-    3. 五连杆轮腿
-1. 做个飞镖玩玩
-    1. 做个小demo
-3. 整合各种玩意搞个万国造的鹅瞄
+1. 做个轮腿平衡车车demo玩玩<br>
+    [轮腿车车](https://github.com/LJW0401/Wheel_Leg_Balance_Vehicle) 一款五连杆轮腿平衡车车的控制器代码。
 
-    [PenguinVision](https://github.com/LJW0401/PenguinVision)
-    1. 全套自己写
-    2. 额外增加4个摄像头提升周边姿态感知，同时知道旁边机器人分布的状态。
-    3. 增加弹丸识别功能
-4. 做报到材料整理系统的硬件，接入到新生报到辅助系统中。 
+1. 做个球轮平衡车车demo玩玩<br>
+    [球轮车车](https://github.com/LJW0401/Single_Ball_Wheeled_Vehicle) 单球轮平衡，可以实现更多复杂的动作，包括但不限于：<br>
+        1. 直线运动的同时叠加自身的旋转。<br>
+        2. 跳跃一定高度。<br>
+        3. 更加灵活的机动。
+
+1. 做个飞镖玩玩<br>
+    [飞镖系统](https://github.com/LJW0401/Dart_System) 一个非常简易的飞镖系统，正常人都会的那种，没啥技术。
+
+1. 整合各种稀奇古怪的东西做一个小企鹅视觉系统<br>
+    [PenguinVision](https://github.com/LJW0401/PenguinVision)<br>
+        1. 额外增加4个摄像头提升周边姿态感知，同时知道旁边机器人分布的状态。<br>
+        2. 增加弹丸识别功能 [B站相关视频](https://www.bilibili.com/video/BV1sP411Y7S6?t=1.6)<br>
+        `当看到这俩被其他人先做出来并运用到比赛中的时候真的很激动`
+    
+1. 做个新生报到辅助系统。<br>
+    [大学新生报到系统](https://github.com/LJW0401/University_Freshman_Registration_System)<br>
+    [大学新生报到系统局域网内电脑服务端](https://github.com/LJW0401/University_Freshman_Registration_System_PCServer)<br>
+    [大学新生报到系统局域网内电脑客户端](https://github.com/LJW0401/University_Freshman_Registration_System_PCClient)<br>
+    [大学新生报到系统局域网内安卓客户端](https://github.com/LJW0401/University_Freshman_Registration_System_AndroidClient)<br>
+    
+    []()<br>
+    []()<br>
+    []()<br>
+
 
 
 ### 🔭目前情况
-最近在做的事情有点多。
+最近在做的事情有点多，都在上面列出来了。
 
-首先北极熊的眼睛和大脑需要广泛的研究一下。😎
+<!-- 首先北极熊的眼睛和大脑需要广泛的研究一下。😎
 
-然后还有学校的新生报到系统，包括服务端、客户端、硬件方面的全套设备要研究一下。
+然后还有学校的新生报到系统，包括服务端、客户端、硬件方面的全套设备要研究一下。 -->
 
