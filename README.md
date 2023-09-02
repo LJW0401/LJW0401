@@ -97,6 +97,9 @@ Here are some ideas to get you started:
         2. 跳跃一定高度。<br>
         3. 更加灵活的机动。
 
+1. 做个简单的机械臂玩玩<br>
+    [手臂姿态同步机械臂](https://github.com/LJW0401/Gesture_Synchronous_Robotic_Arm)
+
 1. 做个飞镖玩玩<br>
     [飞镖系统](https://github.com/LJW0401/Dart_System) 一个非常简易的飞镖系统，正常人都会的那种，没啥技术。
 
