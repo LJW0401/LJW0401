@@ -113,9 +113,8 @@ Here are some ideas to get you started:
     [大学新生报到系统局域网内安卓客户端](https://github.com/LJW0401/University_Freshman_Registration_System_AndroidClient)<br>
     
     []()<br>
-    []()<br>
-    []()<br>
 
+***希望毕业前能做完吧***
 
 
 ### 🔭目前情况
