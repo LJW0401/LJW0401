@@ -34,8 +34,11 @@ Here are some ideas to get you started:
 
 <img src="https://activity-graph.herokuapp.com/graph?username=LJW0401&theme=dracula"> -->
 
+### 🥰总体介绍
 
-小企鹅是一只营养均衡，全面发展的企鹅
+小企鹅是一只营养均衡，全面发展的企鹅。
+
+小企鹅在平时也会有很多思考，都在[小企鹅的思考空间🤔](https://github.com/LJW0401/Thinking_Space)中，欢迎大家前来交流。
 
 从硬件到软件，从汇编到高级编程语言你都可以与企鹅聊聊上一些。
 
