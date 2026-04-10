@@ -36,11 +36,17 @@ Here are some ideas to get you started:
 
 ### 🥰总体介绍
 
-小企鹅是一只营养均衡，全面发展的企鹅。
+小企鹅是一只喜欢使用 AI 工具的企鹅。欢迎大家交流 AI 相关的使用经验。
 
-小企鹅在平时也会有很多思考，都在[小企鹅的思考空间🤔](https://github.com/LJW0401/Thinking_Space)中，欢迎大家前来交流。
+### 🔭自己觉得不错的项目
 
-从硬件到软件，从汇编到高级编程语言你都可以与企鹅聊聊上一些。
+[lark-agent-bridge](https://github.com/LJW0401/lark-agent-bridge) 通过飞书 CLI 触发 AI Agent 处理任务。
+
+[Git Workflows - Claude Code Skills](https://github.com/LJW0401/claude-code-git-workflows) Claude Code 自定义 git 工作流斜杠命令 
+
+[Remote Term](https://github.com/LJW0401/remote_term) 手机远程控制电脑终端
+
+### 🌱浅浅涉猎过的东西
 
 |类别|使用|
 |---|---|
@@ -57,25 +63,6 @@ Here are some ideas to get you started:
 |**视频剪辑**|![Premiere Badge](https://img.shields.io/badge/-Premiere-007ACC?style=flat&logo=adobe-premiere-pro&logoColor=white) ![剪映 Badge](https://img.shields.io/badge/-%E5%89%AA%E6%98%A0-orange?style=flat)|
 <!-- CI/CD代表持续集成（Continuous Integration）和持续交付/持续部署（Continuous Delivery/Continuous Deployment），是一种软件开发流程和实践，旨在通过自动化来提高软件开发和交付的效率、质量和可靠性。它涉及将代码集成到共享代码库中，进行自动化测试，以及将应用程序自动地交付给生产环境或用户。 -->
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJW0401&layout=compact&langs_count=6&theme=merko" />
-    </div>
-    <div style="flex: 2;">
-      <img src="https://github-readme-stats.vercel.app/api?username=LJW0401&show_icons=true&theme=merko" /> 
-    </div>
-</div>
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LJW0401&show_icons=true&theme=transparent" /> 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJW0401&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=merko" />
-</div> -->
-
-<br>
-
 - **领域知识** **Domain Knownledge**
 
     ![Machine Learning Badge](https://img.shields.io/badge/机器学习-Machine%20Learning-01D277?style=flat&logoColor=white) 
@@ -86,47 +73,16 @@ Here are some ideas to get you started:
     ![Computer Vision](https://img.shields.io/badge/计算机视觉-Computer%20Vision-253388?style=flat&logoColor=white)
 
 
-### 📫目前在做的项目
+### 📫本科期间的项目
 没什么技术含量，做着玩玩。
 
-以下排序按照优先级
+以下没有排序
 
-1. 做个轮腿平衡车车demo玩玩<br>
+1. 做个轮腿平衡车车demo玩玩
+
     [轮腿车车](https://github.com/LJW0401/Wheel_Leg_Balance_Vehicle) 一款五连杆轮腿平衡车车的控制器代码。
 
-1. 做个球轮平衡车车demo玩玩<br>
-    [球轮车车](https://github.com/LJW0401/Single_Ball_Wheeled_Vehicle) 单球轮平衡，可以实现更多复杂的动作，包括但不限于：<br>
-        1. 直线运动的同时叠加自身的旋转。<br>
-        2. 跳跃一定高度。<br>
-        3. 更加灵活的机动。
+2. 做个简单的机械臂玩玩
 
-1. 做个简单的机械臂玩玩<br>
     [手臂姿态同步机械臂](https://github.com/LJW0401/Gesture_Synchronous_Robotic_Arm)
-
-1. 做个飞镖玩玩<br>
-    [飞镖系统](https://github.com/LJW0401/Dart_System) 一个非常简易的飞镖系统，正常人都会的那种，没啥技术。
-
-1. 整合各种稀奇古怪的东西做一个小企鹅视觉系统<br>
-    [PenguinVision](https://github.com/LJW0401/PenguinVision)<br>
-        1. 额外增加4个摄像头提升周边姿态感知，同时知道旁边机器人分布的状态。<br>
-        2. 增加弹丸识别功能 [B站相关视频](https://www.bilibili.com/video/BV1sP411Y7S6?t=1.6)<br>
-        `当看到这俩被其他人先做出来并运用到比赛中的时候真的很激动`
-    
-1. 做个新生报到辅助系统。<br>
-    [大学新生报到系统](https://github.com/LJW0401/University_Freshman_Registration_System)<br>
-    [大学新生报到系统局域网内电脑服务端](https://github.com/LJW0401/University_Freshman_Registration_System_PCServer)<br>
-    [大学新生报到系统局域网内电脑客户端](https://github.com/LJW0401/University_Freshman_Registration_System_PCClient)<br>
-    [大学新生报到系统局域网内安卓客户端](https://github.com/LJW0401/University_Freshman_Registration_System_AndroidClient)<br>
-    
-    []()<br>
-
-***希望毕业前能做完吧***
-
-
-### 🔭目前情况
-最近在做的事情有点多，都在上面列出来了。
-
-<!-- 首先北极熊的眼睛和大脑需要广泛的研究一下。😎
-
-然后还有学校的新生报到系统，包括服务端、客户端、硬件方面的全套设备要研究一下。 -->
 
