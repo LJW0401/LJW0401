@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 ### 🔭自己觉得不错的项目
 
-[lark-agent-bridge](https://github.com/LJW0401/lark-agent-bridge) 通过飞书 CLI 触发 AI Agent 处理任务。
-
-[Git Workflows - Claude Code Skills](https://github.com/LJW0401/claude-code-git-workflows) Claude Code 自定义 git 工作流斜杠命令 
-
-[Remote Term](https://github.com/LJW0401/remote_term) 手机远程控制电脑终端
+- [Claude Code Git Workflows](https://github.com/LJW0401/claude-code-git-workflows) Claude Code 自定义 git 工作流斜杠命令 
+- [Claude Code Project Workflows](https://github.com/LJW0401/claude-code-project-workflows) Claude Code 项目开发工作流 Skill 集合，提供从需求到交付的完整开发流水线。
+- [Agent Hive](https://github.com/LJW0401/agent_hive) 终端智能体并行管理 — 基于 Web 的多终端管理器，支持并行运行 AI Agent 或其他终端任务。
+- [lark-agent-bridge](https://github.com/LJW0401/lark-agent-bridge) 通过飞书 CLI 触发 AI Agent 处理任务。
+- [Remote Term](https://github.com/LJW0401/remote_term) 手机远程控制电脑终端
 
 ### 🌱浅浅涉猎过的东西
 
